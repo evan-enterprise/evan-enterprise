@@ -45,3 +45,6 @@ We execute direct, high-volume, contract-based orders. For tenders, corporate pa
 <p align="center">
   <b>Evan Enterprise © 2026 | Built for Scale, Trusted for Quality.</b>
 </p>
+# 🌐 Connect With Me (যোগাযোগ করুন):
+* 👥 **Facebook:** [Arif Sarker Rabby](https://www.facebook.com/arif.sarker.rabby.official)
+* 💼 **Business Link:** [Evan Enterprise](https://tinyurl.com/evan-enterprise)
